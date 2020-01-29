@@ -1,3 +1,15 @@
 
-Arquivo da aula de git e github.
-Edição 1
+Arquivo da aula de git e github:
+
+Para subir um repositório que já tenho inicializado e comitado no git local no  para o github
+
+
+Criar um novo repositório no github e executar os seguintes comandos:
+
+git remote add origin + endereço do repositório utilizando ssh
+git push -u origin master (na primeira vez depois somente git push)
+
+
+Subir as edições do arquivo para o github:
+
+
