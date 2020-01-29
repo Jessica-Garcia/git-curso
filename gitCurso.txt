@@ -12,4 +12,16 @@ git push -u origin master (na primeira vez depois somente git push)
 
 Subir as edições do arquivo para o github:
 
+Editar o arquivo
+
+Verificar com git status
+
+Para adicionar direto e comitar 
+git commit -am “mensagem”
+
+Para subir para o github
+git push origin + branch em que eu estou (neste caso é master)
+git push origin master
+
+
 
